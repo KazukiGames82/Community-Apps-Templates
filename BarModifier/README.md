@@ -7,7 +7,9 @@
 
 > [!TIP]
 > Assign the actions to a variable and call it every time you need it.
-> `AppName-AppAuthor___TopBar_Update=`
+> ```ini
+> AppName-AppAuthor___TopBar_Update=
+> ```
 
 - Using only App icon
 
