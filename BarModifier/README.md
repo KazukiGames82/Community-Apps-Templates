@@ -2,7 +2,7 @@
 
 <h2 align="justify">GreyScale Icons</h2>
 
-- Adding text
+- [Adding text](https://github.com/KazukiGames82/Community-Apps-Templates/blob/main/BarModifier/GreyScale-Icons/Template-1/BarModifier.inc)
 - Adding two or more text w/ icons
 
 <br>
