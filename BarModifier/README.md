@@ -27,8 +27,8 @@
 
 <br>
 
-- [Adding hideable text](https://github.com/KazukiGames82/Community-Apps-Templates/blob/main/BarModifier/GreyScale-Icons/Template-1/BarModifier.inc)
-- Adding two or more hideable text w/ icons
+- [Adding hideable text/icon](https://github.com/KazukiGames82/Community-Apps-Templates/blob/main/BarModifier/GreyScale-Icons/Template-1/BarModifier.inc)
+- [Adding two or more hideable text/icon](https://github.com/KazukiGames82/Community-Apps-Templates/blob/main/BarModifier/GreyScale-Icons/Template-2/BarModifier.inc)
 
 <br>
 
