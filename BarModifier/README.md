@@ -23,7 +23,7 @@
     [!UpdateMeterGroup AppName-AppAuthor "Droptop\DropdownBar"][!UpdateMeterGroup CustomApp[#AppName-AppAuthor]Sys "Droptop\DropdownBar"][!UpdateMeterGroup SysTray "Droptop\DropdownBar"][!UpdateMeterGroup HL "Droptop\DropdownBar"][!UpdateMeterGroup NotificationBar "Droptop\DropdownBar"][!Redraw "Droptop\DropdownBar"]
     ```
 
-<h1></h1>
+<h1>Templates</h1>
 
 <details>
     <summary>GreyScale Icons Templates</summary>
