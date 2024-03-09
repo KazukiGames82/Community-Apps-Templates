@@ -7,6 +7,7 @@
 
 > [!TIP]
 > Assign the actions to a variable and call it every time you need it.
+> `AppName-AppAuthor___TopBar_Update=`
 
 - Using only App icon
 
@@ -32,10 +33,6 @@
 
 <br>
 
-- Hideable app icon
-
-<br>
-
 - Make less visible app icon when no internet
 - Hide app text when no internet
 
@@ -48,13 +45,8 @@
 
 <br>
 
-- Adding text
-- Adding two or more text w/ icons
-
-<br>
-
-- Hideable app icon
-- Hideable app text
+- Adding hideable text/icon
+- Adding two or more hideable text/icon
 
 <br>
 
