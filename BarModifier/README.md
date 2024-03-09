@@ -6,11 +6,11 @@ Remember always modify `AppName-AppAuthor`.
 
 - Using only App icon
 
-    `[!UpdateMeterGroup CustomApp[#AppName-AppAuthor]Sys "Droptop\DropdownBar"][!Redraw "Droptop\DropdownBar"]`
+    ```[!UpdateMeterGroup CustomApp[#AppName-AppAuthor]Sys "Droptop\DropdownBar"][!Redraw "Droptop\DropdownBar"]```
 
 - Using app icon and text
 
-    `[!UpdateMeterGroup AppName-AppAuthor "Droptop\DropdownBar"][!UpdateMeterGroup CustomApp[#AppName-AppAuthor]Sys "Droptop\DropdownBar"][!UpdateMeterGroup SysTray "Droptop\DropdownBar"][!UpdateMeterGroup HL "Droptop\DropdownBar"][!UpdateMeterGroup NotificationBar "Droptop\DropdownBar"][!Redraw "Droptop\DropdownBar"]`
+    ```[!UpdateMeterGroup AppName-AppAuthor "Droptop\DropdownBar"][!UpdateMeterGroup CustomApp[#AppName-AppAuthor]Sys "Droptop\DropdownBar"][!UpdateMeterGroup SysTray "Droptop\DropdownBar"][!UpdateMeterGroup HL "Droptop\DropdownBar"][!UpdateMeterGroup NotificationBar "Droptop\DropdownBar"][!Redraw "Droptop\DropdownBar"]```
 
 <h2 align="justify">GreyScale Icons</h2>
 
